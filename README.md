@@ -2,9 +2,9 @@
 <h3 align="center">A creative frontend developer from France</h3>
 <br>
 
-- 🔭 These last weeks, I've been working on [PRchecker](https://github.com/HazeFury/PR-checker) with some friends !
-
-- 🌱 Also, I’m currently learning **Typescript, Next.js and Three.js**
+- 🔭 I'm currently studying frontend development technologies and tech project management at ECV Bordeaux as a master's degree student
+  
+- 🌱 Also, I’m currently learning **Typescript, Next.js and Three.js** on my own
 
 - 👨‍💻 You can explore my portfolio to check out my projects or get some more info about me : [https://guillaume-lamourec.netlify.app/](https://guillaume-lamourec.netlify.app/)
 
