@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently studying frontend development technologies and tech project management at ECV Bordeaux as a master's degree student
   
-- 🌱 Also, I’m currently learning **Typescript, Next.js and Three.js** on my own
+- 🌱 I’m currently learning **Typescript, Svelte and Three.js** 
 
 - 👨‍💻 You can explore my portfolio to check out my projects or get some more info about me : [https://guillaume-lamourec.netlify.app/](https://guillaume-lamourec.netlify.app/)
 
